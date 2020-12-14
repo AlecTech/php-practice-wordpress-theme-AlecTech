@@ -1,0 +1,1 @@
+console.info( 'AlecTech Theme JS: Ready to go');
